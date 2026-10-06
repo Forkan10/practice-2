@@ -1,1 +1,1 @@
-﻿# Helper file so running `git add . py` succeeds seamlessly
+﻿# Helper file for git add . py
